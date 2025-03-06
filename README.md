@@ -1,12 +1,12 @@
 # TASK-MANAGER
 <br>
-<u><b>INTRO:</b></u>
+INTRO:
 <br>
 <br>
 A Task Manager is a productivity tool designed to help users efficiently organize, track, and manage their tasks. It allows users to create, categorize, and prioritize tasks while setting deadlines and reminders. The application provides an intuitive interface to mark tasks as pending, in progress, or completed. Advanced features like search, filters, and notifications enhance task management. This project aims to improve time management and workflow efficiency for individuals and teams.🚀🚀🚀
 <br>
-<br>
-<u><b>CONTRIBUTION:</b></u>
+<hr>
+CONTRIBUTION:
 <br>
 <br>
 Phanindra O.V.A
