@@ -15,7 +15,7 @@ Yashwanth Kumar Monganti
 <br>
 Akhil Bommu
 <br>
-Pardhiv
+Pardhiv Pamu
 <br>
 Jyothi Polavarapu
 <br>
