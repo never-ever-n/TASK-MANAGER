@@ -15,9 +15,9 @@ Yashwanth Kumar Monganti
 <br>
 Akhil Bommu
 <br>
-Pardhiv
+SaiPardhiv Pammu
 <br>
-Jyothi Polavarapu
+Jyothi Sri Polavarapu
 <br>
 Praharsha Maroju
 <br>
